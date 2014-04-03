@@ -1,7 +1,7 @@
 RoyExtraCode.Com
 ============
 
-The persoanl porfolio of Roy Allen.
+The personal porfolio of Roy Allen.
 
 
 Features 
